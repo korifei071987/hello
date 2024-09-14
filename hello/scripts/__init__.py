@@ -1,0 +1,1 @@
+NAME='my_package'
